@@ -379,9 +379,9 @@ blockingPool.shutdown()
 [service]: ../service
 [entity]: ../entity
 [json]: ../json
-[`ContextShift`]: https://typelevel.org/cats-effect/datatypes/contextshift.html
-[`ConcurrentEffect`]: https://typelevel.org/cats-effect/typeclasses/concurrent-effect.html
-[`IOApp`]: https://typelevel.org/cats-effect/datatypes/ioapp.html
+[`ContextShift`]: https://typelevel.org/cats-effect/docs/2.x/datatypes/contextshift
+[`ConcurrentEffect`]: https://typelevel.org/cats-effect/docs/2.x/typeclasses/concurrenteffect
+[`IOApp`]: https://typelevel.org/cats-effect/docs/2.x/datatypes/ioapp
 [middleware]: ../middleware
 [Follow Redirect]: ../api/org/http4s/client/middleware/FollowRedirect$
 [Retry]: ../api/org/http4s/client/middleware/Retry$
